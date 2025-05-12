@@ -1,0 +1,6 @@
+[submodule "my-component-library"]
+	path = my-component-library
+	url = https://github.com/TheChirag356/my-component-library
+[submodule "realtime-texteditor"]
+	path = realtime-texteditor
+	url = https://github.com/TheChirag356/realtime-texteditor
